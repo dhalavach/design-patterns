@@ -1,5 +1,5 @@
 package observer;
-
+//TODO implement specific version of observer
 public class ConcreteSubject {
     public void registerObserver(){};
     public void removeObserver(){};
